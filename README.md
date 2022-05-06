@@ -1,17 +1,31 @@
-# About this project
+# Extended QR
+## About this project
 QR code scanner for any mobile devices with a camera, regardless of platform.
 
-# Requirement
-Supported browser: https://immersiveweb.dev/#supporttable
+## Requirements
+Recommand ```Chrome```. Other supported browser: https://immersiveweb.dev/##supporttable
 
-# Software stack
+## Software stack
 The app is based on web. It works on phones, desktop, AR/VR headsets.
  
-nextjs + react + aframe + webxr 
+react + aframe + webxr 
 
-## From other project
+# From other project
 
-# WebDev
+## Webxr
 https://immersiveweb.dev/
-# Hand-gesture
+## Hand-gesture
 https://developer.oculus.com/documentation/web/webxr-hands/
+## Aframe
+https://aframe.io/
+
+# Additional
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
